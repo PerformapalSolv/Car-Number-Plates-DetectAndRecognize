@@ -4,6 +4,8 @@
 
 [CCPD2020数据集](https://github.com/detectRecog/CCPD)
 
+车牌数据：Car-Number-Plates-DetectAndRecognize/data/test/test.zip
+
 **车牌识别**
 
 ```shell
