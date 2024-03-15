@@ -2,6 +2,8 @@
 
 思路：**使用python-opencv:cv2.CascadeClassifier** 做车牌检测  、**用LPRNet项目做车牌OCR文字识别**
 
+[CCPD2020数据集](https://github.com/detectRecog/CCPD)
+
 **车牌识别**
 
 ```shell
@@ -36,3 +38,5 @@ python GradioUI.py
 
 1. haarcascade_russian_plate_number.xml模型终究按俄罗斯汽车车牌训练的，很多中国车牌不能检测出。我在gradio上的示例都是挑好的展示，其实大部分是检测不出的。
 2. LPRNet也是使用原作者的训练模型：而这个模型的车牌训练集各省份车牌数量占比不平衡，会导致模型对某些省份车牌更敏感，另一些少的会OCR出错。
+
+**计划自己v2.0自己完成对这两个模型的训练**
