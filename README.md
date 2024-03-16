@@ -30,7 +30,7 @@ python GradioUI.py
 
 
 
-![image-20240315233532960](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240315233532960.png)
+![image-20240315233532960](https://yitongtuchuang.oss-cn-beijing.aliyuncs.com/image/image-20240315233532960.png)
 
 ## 第一版评价
 
